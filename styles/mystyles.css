@@ -1,0 +1,35 @@
+.bold{
+    font-weight: bold;
+}
+
+.img{
+   display: flex;
+   justify-content: center;
+}
+
+.vid{
+    display: flex;
+   justify-content: center;
+}
+
+.mainli{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.title{
+    font-weight: bold;
+    text-align: center;
+    color: black;
+}
+
+.top{
+    text-align: center;
+}
+
+.center{
+    display: inline-block;
+    font-size: 15px;
+    color: block;
+    text-decoration: underline;
+}
